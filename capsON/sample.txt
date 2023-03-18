@@ -1,1 +1,2 @@
 THis is not an empty text file, don't delete.
+I think we can delete this file now, how about you?
